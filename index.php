@@ -11,10 +11,10 @@
 
 	<body>
 		<header>
-			<h1>This is a Demo Page</h1>
+			<h1 class="foo-heading">This is a Demo Page</h1>
 		</header>
 		<main>
-			<p>This is where my text would go!!!</p>
+			<p id="description">This is where my text would go!!!</p>
 
 			<h2>A Few of My Favorite Things</h2>
 		<ul>
@@ -53,6 +53,9 @@
 			<img src="images/404decadenotfound.JPG" alt="ERROR: 404 Decade Not Found">
 
 			<p> This is a link to <a href="https://google.com" target="_blank">Google</a>.</p>
+
+			<div>This content is in a DIV</div>
+			<span>This content is in a SPAN</span>
 		</main>
 
 	</body>
