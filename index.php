@@ -40,7 +40,7 @@
 					<td>Boxer</td>
 				</tr>
 			</table>
-
+			<img src="images/404decadenotfound.jpg" alt="ERROR: 404 Decade Not Found">
 	</main>
 	</body>
 </html>
