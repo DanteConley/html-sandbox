@@ -42,7 +42,7 @@
 			</table>
 			<br>
 			<img src="images/404decadenotfound.JPG" alt="ERROR: 404 Decade Not Found">
-			<p> This is a link to <a href="https//:google.com" target="_blank">Google</a>.</p>
+			<p> This is a link to <a href="https://google.com" target="_blank">Google</a>.</p>
 	</main>
 	</body>
 </html>
